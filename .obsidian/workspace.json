@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5f62968ad831ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Game Concept.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f92486561f3a46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f955cb19b639fa47",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +148,16 @@
   },
   "active": "f955cb19b639fa47",
   "lastOpenFiles": [
+    "Sprint 1/Set Up.md",
+    "Sprint 1/Core Game Concept.md",
+    "Sprint 1",
+    "New folder",
     "README.md",
     "Core Game Concept.md",
     "Set Up.md",
     "Adding some elements.md",
     "Canibal_game/cannibals_missionaries.py",
     "Canibal_game",
-    "Canibal_Game",
-    "New folder"
+    "Canibal_Game"
   ]
 }
